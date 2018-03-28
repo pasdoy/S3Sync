@@ -4,8 +4,10 @@ Sync s3 bucket to local folder anonymously
 
 ## Install
 
-Clone the project and open it with VS.
+1. Install .Net 4.X
+1. Clone the project and open it with VS.
 
 ## Note
 
 - Download is not multithreaded
+
